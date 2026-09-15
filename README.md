@@ -11,8 +11,8 @@
 #
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Católica de Brasília. Ganho meu dinheiro através do meu trabalho autônomo!<br>
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Católica de Brasília. Ganho meu dinheiro através do meu trabalho autônomo, mas ainda preciso de trabalho...<br>
+  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. Espero contar com vocês durante essa jornada!
 </p>
 
 #
